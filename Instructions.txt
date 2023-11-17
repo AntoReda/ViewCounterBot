@@ -1,0 +1,10 @@
+open vs code
+
+go to terminal and make sure you have selenium and matplotlib installed
+To verify, run command pip show selenium and pip show matplotlib
+
+If you dont have you have to install it
+To install run command pip install selenium and pip install matplotlib
+
+Then make sure you have the python app running and run the code on VS
+ 
